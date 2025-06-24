@@ -17,7 +17,7 @@ Try it out here:  [CSS Button Generator](https://yashsonirony.github.io/css_butt
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ##  Getting Started
 
